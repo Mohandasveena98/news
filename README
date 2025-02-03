@@ -1,0 +1,33 @@
+Reason for Choosing CodeSandbox
+
+    I have chosen CodeSandbox over Docker for the following reasons:
+        1️⃣ Instant Setup – No need for local installation.
+        2️⃣ Faster Development & Collaboration – Supports real-time collaboration.
+        3️⃣ No System Compatibility Issues – Runs entirely in the browser.
+        4️⃣ Best for Prototyping & Quick Demos – Ideal for rapid development.
+        5️⃣ Built-in Environment for Frontend Apps – Pre-configured for React, Vue, and other frameworks.
+
+Project File Structure
+
+📂 Public Folder
+    Contains the index.html file, which serves as the entry point for rendering all components.
+
+📂 Src Folder
+    Houses all main pages, components, and related files.
+
+📂 Components Folder
+    Contains reusable components and smaller UI elements.
+
+📄 index.js
+    The main file where all components are rendered.
+
+📄 App.js
+    The central file where the core application logic resides, including routing.
+
+📄 Newspage.js
+    Displays news articles with search and filter functionality.
+
+📄 Newsfeed.js
+    A single-news page where users can customize the view and navigate between articles using the "Next" button.
+
+This structure ensures clean organization, maintainability, and efficient development within CodeSandbox. 🚀
